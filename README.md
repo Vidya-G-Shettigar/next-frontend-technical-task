@@ -1,3 +1,33 @@
+# Used dependencies for the project
+
+In the project directory, dependencies used are:
+
+## Middleware for Redux - thunk
+
+With a plain basic Redux store, you can only do simple synchronous updates by dispatching an action. Middleware extends the store's abilities, and lets you write async logic that interacts with the store.
+
+You can learn more here https://github.com/reduxjs/redux-thunk
+
+## React redux
+
+React Redux is the official React UI bindings layer for Redux. It lets your React components read data from a Redux store, and dispatch actions to the store to update state.
+
+You can learn more here https://react-redux.js.org/
+
+## Infinite scroll from react-infinite-scroller
+
+To infinitely load a grid or list of items in React.
+
+You can learn more here https://www.npmjs.com/package/react-infinite-scroller
+
+## Ant design for table
+
+You can learn more here  https://ant.design/components/table
+
+## Bootstrap for styling
+
+HTML elements are styled using bootstrap.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
