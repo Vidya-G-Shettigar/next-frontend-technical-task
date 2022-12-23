@@ -1,0 +1,21 @@
+.App {
+  background-color: #000000;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+/* to override table styling */
+.ant-table-wrapper .ant-table-thead >tr>th, 
+.ant-table-wrapper .ant-table-thead >tr>td, 
+.ant-table-tbody, 
+.ant-table-wrapper .ant-table {
+  background-color: #000000;
+  color: white;
+}
+
+.ant-table-wrapper .ant-table-tbody >tr .ant-table-row:hover>td, 
+.ant-table-wrapper .ant-table-tbody >tr>td.ant-table-cell-row-hover {
+  background: #36454F !important;
+}
