@@ -28,6 +28,10 @@ You can learn more here  https://ant.design/components/table
 
 HTML elements are styled using bootstrap.
 
+## redux-mock-store
+
+A mock store for testing Redux async action creators and middleware. The mock store will create an array of dispatched actions which serve as an action log for tests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
