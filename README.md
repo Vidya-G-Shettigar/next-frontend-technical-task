@@ -32,6 +32,11 @@ HTML elements are styled using bootstrap.
 
 A mock store for testing Redux async action creators and middleware. The mock store will create an array of dispatched actions which serve as an action log for tests.
 
+## Unit testing using Jest
+
+Unit testing of components is done using Jest and the test cases are added in seperate branch, which can be found in the below link.
+https://github.com/Vidya-G-Shettigar/next-frontend-technical-task/tree/Unit_test_cases/src/components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
